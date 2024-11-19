@@ -3,10 +3,10 @@ import { Metadata } from "next";
 export const SITE_CONFIG: Metadata = {
     title: {
         // write a default title for astra a ai powered website builder suggest something unique and catchy don't use the same words of ai powered website builder give a unique name
-        default: "Astra - AI Powered Website Builder",
-        template: `%s | Astra`
+        default: "Scholarly - Virtual learning platform",
+        template: `%s | Scholarly`
     },
-    description: "Astra is an AI powered website builder that helps you create a website in minutes. No coding skills required. Get started for free!",
+    description: "Scholarly is an online platform designed to help university students collaborate seamlessly on assignments, group projects, and discussions using text, audio, and video chat.",
     icons: {
         icon: [
             {
@@ -16,8 +16,8 @@ export const SITE_CONFIG: Metadata = {
         ]
     },
     openGraph: {
-        title: "Astra - AI Powered Website Builder",
-        description: "Astra is an AI powered website builder that helps you create a website in minutes. No coding skills required. Get started for free!",
+        title: "Scholarly - Virtual learning platform",
+        description: "Scholarly is an online platform designed to help university students collaborate seamlessly on assignments, group projects, and discussions using text, audio, and video chat.",
         images: [
             {
                 url: "/assets/og-image.png",
@@ -27,13 +27,13 @@ export const SITE_CONFIG: Metadata = {
     twitter: {
         card: "summary_large_image",
         creator: "@shreyassihasane",
-        title: "Astra - AI Powered Website Builder",
-        description: "Astra is an AI powered website builder that helps you create a website in minutes. No coding skills required. Get started for free!",
+        title: "Scholarly - Virtual learning platform",
+        description: "Scholarly is an online platform designed to help university students collaborate seamlessly on assignments, group projects, and discussions using text, audio, and video chat.",
         images: [
             {
                 url: "/assets/og-image.png",
             }
         ]
     },
-    metadataBase: new URL("https://astra-app.vercel.app"),
+    metadataBase: new URL("https://scholarly-learning.vercel.app"),
 };

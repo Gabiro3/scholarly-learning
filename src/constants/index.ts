@@ -114,33 +114,34 @@ export const bentoCards = [
 
 export const reviews = [
     {
-        name: "Jack",
-        username: "@jack",
-        body: "I've never seen anything like this before. It's amazing. I love it.",
+        name: "Alice",
+        username: "@alice_auca",
+        body: "Scholarly has made group work so much easier at AUCA. I can’t imagine studying without it now!",
     },
     {
-        name: "Jill",
-        username: "@jill",
-        body: "I don't know what to say. I'm speechless. This is amazing.",
+        name: "Brian",
+        username: "@brian_cst",
+        body: "The real-time collaboration tools are a game-changer for CST students like me. Assignments feel less stressful now!",
     },
     {
-        name: "John",
-        username: "@john",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Chloe",
+        username: "@chloe_kepler",
+        body: "Scholarly has transformed how we prep after class at Kepler. It's efficient, smart, and easy to use!",
     },
     {
-        name: "Jane",
-        username: "@jane",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Daniel",
+        username: "@daniel_auca",
+        body: "From discussions to assignments, Scholarly keeps everything organized for my AUCA classes. Highly recommend it!",
     },
     {
-        name: "Jenny",
-        username: "@jenny",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Eve",
+        username: "@eve_cst",
+        body: "As a CST student, I love how Scholarly simplifies complex projects. It’s the productivity boost I needed!",
     },
     {
-        name: "James",
-        username: "@james",
-        body: "I'm at a loss for words. This is amazing. I love it.",
+        name: "Faith",
+        username: "@faith_kepler",
+        body: "The collaboration tools on Scholarly are perfect for Kepler’s group projects. It’s been a lifesaver for me!",
     },
 ];
+
