@@ -39,13 +39,13 @@ const Navbar = async () => {
             ) : (
               <>
                 <Link
-                  href="/sign-in"
+                  href="https://scholarly-rwanda.vercel.app/sign-in"
                   className={buttonVariants({ size: "sm", variant: "ghost" })}
                 >
                   Login
                 </Link>
                 <Link
-                  href="/sign-up"
+                  href="https://scholarly-rwanda.vercel.app/sign-up"
                   className={buttonVariants({
                     size: "sm",
                     className: "hidden md:flex",
