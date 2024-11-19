@@ -68,13 +68,13 @@ const HomePage = () => {
                   <p className="text-foreground text-sm text-center md:text-base font-medium pl-4 pr-4 lg:pr-0">
                     ✨ {"  "} Start learning on Scholarly!
                   </p>
-                    <Button
-                      size="sm"
-                      className="rounded-full hidden lg:flex border border-foreground/20"
-                    >
-                      Get Started
-                      <ArrowRight className="w-4 h-4 ml-1" />
-                    </Button>
+                  <Button
+                    size="sm"
+                    className="rounded-full hidden lg:flex border border-foreground/20"
+                  >
+                    Get Started
+                    <ArrowRight className="w-4 h-4 ml-1" />
+                  </Button>
                 </Link>
               </div>
             </div>
@@ -83,7 +83,7 @@ const HomePage = () => {
               <div className="absolute top-1/2 left-1/2 -z-10 gradient w-3/4 -translate-x-1/2 h-3/4 -translate-y-1/2 inset-0 blur-[10rem]"></div>
               <div className="-m-2 rounded-xl p-2 ring-1 ring-inset ring-foreground/20 lg:-m-4 lg:rounded-2xl bg-opacity-50 backdrop-blur-3xl">
                 <Image
-                  src="/assets/scholarly"
+                  src="/assets/scholarly.svg"
                   alt="banner image"
                   width={1200}
                   height={1200}
