@@ -52,7 +52,7 @@ const HomePage = () => {
 
             <div className="flex flex-col items-center mt-8 max-w-3xl w-11/12 md:w-full">
               <h1 className="text-4xl md:text-6xl lg:textxl md:!leading-snug font-semibold text-center bg-clip-text bg-gradient-to-b from-gray-50 to-gray-50 text-transparent">
-                Learn smarter, collaborate better, get good grades.
+                Virtual learning platform.
               </h1>
               <p className="text-base md:text-lg text-foreground/80 mt-6 text-center">
                 College is hard! but with Scholarly, you have a fighting chance.
