@@ -21,36 +21,35 @@ export const perks = [
 export const features = [
     {
         icon: Icons.bolt,
-        title: "Quick and Easy Setup",
-        info: "Start collaborating in minutes with our simple and intuitive platform setup.",
+        title: "Fast Setup",
+        info: "Get your website up and running in minutes with our intuitive AI-powered builder.",
     },
     {
         icon: Icons.palette,
-        title: "Personalized Workspaces",
-        info: "Customize your study or group project space to suit your needs and preferences.",
+        title: "Customizable Templates",
+        info: "Choose from a variety of stunning templates and customize them to suit your brand.",
     },
     {
         icon: Icons.seo,
-        title: "Smart Resource Management",
-        info: "Keep your group work organized with easy file sharing and seamless integration tools.",
+        title: "SEO Optimized",
+        info: "Built-in SEO features ensure your website ranks well on search engines.",
     },
     {
         icon: Icons.monitor,
-        title: "Device Compatibility",
-        info: "Access Scholarly anytime, anywhere, from your laptop, tablet, or mobile device.",
+        title: "Responsive Design",
+        info: "Your website will look great on any device, from desktops to mobile phones.",
     },
     {
-        icon: Icons.chat,
-        title: "Real-Time Collaboration",
-        info: "Engage with your peers using live text, audio, and video chat features.",
+        icon: Icons.shop,
+        title: "E-Commerce Ready",
+        info: "Start selling online with our e-commerce features and integrations.",
     },
     {
-        icon: Icons.shield,
-        title: "Safe and Secure",
-        info: "Your data and conversations are protected with robust security and encryption.",
+        icon: Icons.server,
+        title: "Secure Hosting",
+        info: "Enjoy peace of mind with secure and reliable hosting for your website.",
     },
 ];
-
 
 export const pricingCards = [
     {
